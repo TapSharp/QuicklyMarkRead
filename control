@@ -1,0 +1,10 @@
+Package: com.tapsharp.markmsgread
+Name: Quickly Mark Read
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Tap and hold to quickly mark message as read without opening message.
+Maintainer: TapSharp <tweaks@tapsharp.com>
+Author: TapSharp <tweaks@tapsharp.com>
+Section: Tweaks
+Tags: mark read,messages,tapsharp
